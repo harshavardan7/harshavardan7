@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Harshavardan<br>💻 MERN Stack Developer | 🎓 B.Tech IT Student | 🚀 Tech Enthusiast<br><br>🌟 I enjoy building dynamic, user-friendly web applications and love tackling real-world challenges through code.<br><br>💡 Tech Stack:<br>Frontend: HTML, CSS, JavaScript, Tailwind, React<br>Backend: Node.js, Express<br>Database: MongoDB<br>Programming Languages: C, Java <br><br>📌 "Always learning, building, and pushing boundaries through code."<br><br><br>
+👋 Hi, I'm Harshavardan J A<br>💻 MERN Stack Developer | 🎓 B.Tech IT Student | 🚀 Tech Enthusiast<br><br>🌟 I enjoy building dynamic, user-friendly web applications and love tackling real-world challenges through code.<br><br>💡 Tech Stack:<br>Frontend: HTML, CSS, JavaScript, Tailwind, React<br>Backend: Node.js, Express<br>Database: MongoDB<br>Programming Languages: C, Java <br><br>📌 "Always learning, building, and pushing boundaries through code."<br><br><br>
 
 
 ## 🌐 Socials:
